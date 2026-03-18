@@ -4,7 +4,7 @@
 
 1. [Ejercicio Propuesto](#1-ejercicio-propuesto)
 2. [Realizacion del ejercicio](#2-realizacion-del-ejercicio)
-3.
+
 
 <br><br>
 
@@ -42,3 +42,7 @@ nombre = str(input("Escribe tu nombre: "))
 edad = int(input("Escribe edad: "))
 print(f"{nombre} tiene {edad} años")
 ```
+
+<br>
+
+[Enlace repositorio](https://github.com/JohnAngeloVera/Examen_2_Evaluacion)
