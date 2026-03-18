@@ -27,4 +27,18 @@ John tiene 45 años
 
 ## 2. Realizacion del ejercicio
 
-Para hacerlo
+Para hacerlo creo una serie de variables
+
+- Primera `nombre = str(input("Escribe tu nombre: "))`
+    - En esta se ve como llamamos una variable con input
+        - El usuario pondra su nombre :+1:
+- Segunda `edad = int(input("Escribe edad: "))`
+- Ahora seria la salida formateada con el printf `print(f"{nombre} tiene {edad} años")`
+
+Codigo total:
+
+```python
+nombre = str(input("Escribe tu nombre: "))
+edad = int(input("Escribe edad: "))
+print(f"{nombre} tiene {edad} años")
+```
